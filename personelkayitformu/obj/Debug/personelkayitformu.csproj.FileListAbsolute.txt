@@ -1,0 +1,14 @@
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\bin\Debug\personelkayitformu.exe.config
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\bin\Debug\personelkayitformu.exe
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\bin\Debug\personelkayitformu.pdb
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.csproj.AssemblyReference.cache
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.csproj.SuggestedBindingRedirects.cache
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.Form1.resources
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.Properties.Resources.resources
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.csproj.GenerateResource.cache
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.csproj.CoreCompileInputs.cache
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.exe
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.pdb
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.peristatistik.resources
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.pergrafik.resources
+C:\Users\atill\OneDrive\Masaüstü\C# Dersleri\personelkayitformu\obj\Debug\personelkayitformu.admingiris.resources
